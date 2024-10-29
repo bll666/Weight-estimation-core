@@ -1,5 +1,4 @@
 # Weight-estimation-core
-Key Code of the paper
 Welcome to the Weght Estimation Core Module Project! This project utilizes a MobileNet V3 backbone with a PoseNet head to perform real-time keypoint detection on images. It includes functionalities for scale alignment and fusion using RANSAC and Bicubic interpolation.
 
 ## Table of Contents
